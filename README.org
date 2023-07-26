@@ -1,0 +1,10 @@
+* cl-cmark
+
+CommonMark implementation for Common Lisp based on libcmark. This system wraps the official reference implementation library, written in C, and provides lispy bindings for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.com/HiPhish/cl-cmark.git   |
+| commit  | 99eef7b  |
+| systems | cl-cmark |
+|---------+-------------------------------------------|
+
