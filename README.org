@@ -4,6 +4,6 @@ CommonMark implementation for Common Lisp based on libcmark. This system wraps t
 
 |---------+---------------------------------------------|
 | source  | git:https://gitlab.com/HiPhish/cl-cmark.git |
-| commit  | 99eef7b                                     |
+| commit  | 9b33f65                                     |
 | systems | cmark                                       |
 |---------+---------------------------------------------|
